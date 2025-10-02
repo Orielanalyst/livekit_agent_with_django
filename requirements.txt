@@ -1,0 +1,7 @@
+Django==5.2.1
+jupyter
+python-decouple
+livekit-agents[silero,turn-detector]~=1.2
+livekit-agents[google,openai,deepgram,silero,cartesia]~=1.0
+livekit-plugins-noise-cancellation~=0.2
+python-dotenv
